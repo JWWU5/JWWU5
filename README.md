@@ -48,13 +48,17 @@ And announcement📢:
 ...and more to go!
 
 ## Projects
-### [vARtebrae]()
+### vARtebrae
 - 📔 INFO90009 User Experience Design, The University of Melbourne
 - 📅 July 2024 - Dec 2024
-- 💡 Unity | Mixed Reality | Meta Quest 3| C# | User-centered Design
+- 💡 Unity | Mixed Reality | Meta Quest 3 | C# | User-centered Design
 - 👁️‍🗨️ **Mixed reality application for medical simulators - spinal mobilisation**
-### [Be Human](https://github.com/JWWU5/Be-Human)
+### [My Virtual Land](https://github.com/JWWU5/INFO90003-My-Virtual-Land)
+- 📔 INFO90003 Designing Novel Interactions, The University of Melbourne
+- 📅 March 2024 - June 2024
+- 💡 Ideation | Unity | C# | Arduino | Microcontroller Programming (ESP32) | Soldering | Laser Cutting | 3D printing
+### [Be Human](https://github.com/JWWU5/COMP30019-Be-Human)
 - 📔 COMP30019 Graphics and Interaction, The University of Melbourne
 - 📅 July 2021 - Nov 2021
-- 💡 Unity | C# | Ideation
+- 💡 Ideation | Unity | C#
 - 👁️‍🗨️ My first Unity game: Robot Escape Game
