@@ -1,6 +1,6 @@
 <div align="center">
-  
-# 🧜Hello World!👀
+
+# 🧜Hello World👀
 role: UI/UX Developer | interest: Human Computer Interaction
 
 </div>
@@ -9,7 +9,7 @@ role: UI/UX Developer | interest: Human Computer Interaction
 
 Hi, I'm Jiayi! The fun truth about me👀:
 - 👩‍💻 I'm a **UX/UI Developer** who turns wild ideas into clickable realities🧚‍♀️, make the impossible possible🧠! 
-- 🎓 Master of Software Engineering (Human-Computer Interaction) @ **University of Melbourne**
+- 🎓 Master of Software Engineering (Human-Computer Interaction) @ **The University of Melbourne**
 - 🎮 **4 years of Unity Development** | Currently diving into **Extended Reality (XR)**
 - 🌐 **2 years in Web Develeopment** (UI/front-end focus) | Back-end? *"I'm coming for you...😼"*   
 - 💡 Not claiming to be an expert, but my creativity could fill a galaxy!
@@ -48,3 +48,13 @@ And announcement📢:
 ...and more to go!
 
 ## Projects
+### [vARtebrae]()
+- 📔 INFO90009 User Experience Design, The University of Melbourne
+- 📅 July 2024 - Dec 2024
+- 💡 Unity | Mixed Reality | Meta Quest 3| C# | User-centered Design
+- 👁️‍🗨️ **Mixed reality application for medical simulators - spinal mobilisation**
+### [Be Human](https://github.com/JWWU5/Be-Human)
+- 📔 COMP30019 Graphics and Interaction, The University of Melbourne
+- 📅 July 2021 - Nov 2021
+- 💡 Unity | C# | Ideation
+- 👁️‍🗨️ My first Unity game: Robot Escape Game
