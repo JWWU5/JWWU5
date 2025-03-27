@@ -1,20 +1,27 @@
 <div align="center">
   
-  # Hello🧜
-  
+# 🧜Hello World!👀
+role: UI/UX Developer | interest: Human Computer Interaction
+
 </div>
 
 ### 🐼 About Me
 
-Hi, I'm Jiayi! 
+Hi, I'm Jiayi! The fun truth about me👀:
+- 👩‍💻 I'm a **UX/UI Developer** who turns wild ideas into clickable realities🧚‍♀️, make the impossible possible🧠! 
+- 🎓 Master of Software Engineering (Human-Computer Interaction) @ **University of Melbourne**
+- 🎮 **4 years of Unity Development** | Currently diving into **Extended Reality (XR)**
+- 🌐 **2 years in Web Develeopment** (UI/front-end focus) | Back-end? *"I'm coming for you...😼"*   
+- 💡 Not claiming to be an expert, but my creativity could fill a galaxy!
+- 🔄 Always keen to learn more about new tools and technologies
 
-I'm a UX/UI Developer. I studied Master of Software Engineering in Human-Computer Interaction (HCI) at the University of Melbourne. I'm skilled in creating intuitive and engaging interfaces with Unity, for interactive games and XR applications for healthcare. I also have extensive experience in web and Android development, with a strong passion for designing accessible, user-centred experiences across platforms.
+And announcement📢:
+- 🎯 Seeking: **UX/UI Developer roles** (Unity/Web/Mobile/Extended Reality)
+- 🙊 Open to **full-stack opportunities** (*backend skills in progress...*).  
 
-I am innovative and eager to learn more about new tools and technologies. In addition, I am proficient in software requirements gathering, Agile methodologies, and technical documentation. 
 
-I'm looking for positions in UX/UI development for both Unity and web. I'm also open to opportunities in full-stack development, as I'm currently building my skills in this area through self-learning.
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,4 +47,4 @@ I'm looking for positions in UX/UI development for both Unity and web. I'm also 
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ...and more to go!
 
-### Projects
+## Projects
