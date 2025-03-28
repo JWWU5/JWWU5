@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧜Hello World👀
-role: UI/UX Developer | interest: Human Computer Interaction
+Role: UI/UX Developer | Interest: Human Computer Interaction
 
 </div>
 
@@ -26,6 +26,7 @@ And announcement📢:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Extended Reality](https://img.shields.io/badge/Extended_Reality-9D7AD1?style=for-the-badge&logo=oculus&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,13 +35,18 @@ And announcement📢:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-1E1E1E?style=for-the-badge&logo=capcut&logoColor=00D4FF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-6A5ACD.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-1E1E1E?style=for-the-badge&logo=capcut&logoColor=00D4FF)
+![Soldering](https://img.shields.io/badge/Soldering-FFD700?style=for-the-badge&logo=UXUI&logoColor=white)
+![Laser Cutting](https://img.shields.io/badge/Laser_Cutting-555555?style=for-the-badge&logo=laser&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-9D7AD1?style=for-the-badge&logo=prusa&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-FFB88C?style=for-the-badge&logo=espressif&logoColor=black)
 
 ### 🙉🙈 I'm learning
 ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=serverless&logoColor=white)
@@ -48,13 +54,15 @@ And announcement📢:
 ...and more to go!
 
 ## Projects
-### [vARtebrae](https://github.com/qiting2270/SpinalLog_Quest3) 👩‍💻🧑‍💻
+### [vARtebrae](https://github.com/qiting2270/SpinalLog_Quest3) 👩‍💻🧑‍💻🏆
 - 📔 INFO90009 User Experience Design, The University of Melbourne
 - 📅 July 2024 - Dec 2024
 - 💡 Unity | Mixed Reality | Meta Quest 3 | C# | User-centered Design 
 - 👁️‍🗨️ **Mixed reality application for medical simulators - spinal mobilisation**
+- 🏆 **Faculty and Industry Award from Endeavour Exhibition 2024**(Detail: [1️⃣](https://endeavour.unimelb.edu.au/experience-endeavour/past/2024-endeavour-exhibition-semester-2)
+[2️⃣](https://www.linkedin.com/posts/faculty-of-engineering-and-information-technology_endeavour24-activity-7252567413911625728-VQRk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYiADwBYkVE_6tS90k2E-SpYR9QEFX6CNc))
 
-### [My Virtual Land](https://github.com/JWWU5/INFO90003-My-Virtual-Land) 👩‍💻
+### [My Virtual Land](https://github.com/JWWU5/INFO90003-My-Virtual-Land) 👩‍💻🏆
 - 📔 INFO90003 Designing Novel Interactions, The University of Melbourne
 - 📅 March 2024 - June 2024
 - 💡 Ideation | Unity | C# | Arduino | Microcontroller Programming (ESP32) | Soldering | Laser Cutting | 3D printing
