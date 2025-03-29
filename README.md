@@ -66,6 +66,14 @@ And announcement📢:
 - 📔 INFO90003 Designing Novel Interactions, The University of Melbourne
 - 📅 March 2024 - June 2024
 - 💡 Ideation | Unity | C# | Arduino | Microcontroller Programming (ESP32) | Soldering | Laser Cutting | 3D printing
+- 👁️‍🗨️ **Tangible User Interface for Immersive Experience**
+- 🏆 **Best Visual Desgin Award in class**
+
+### PvZ Plant Manager
+- 📔 COMP30022 IT Project, The University of Melbourne
+- 📅 August 2022 - November 2022
+- 💡 Ideation | React | 
+- 👁️‍🗨️ 
   
 ### [Be Human](https://github.com/JWWU5/COMP30019-Be-Human) 👩‍💻🧑‍💻👩‍💻🧑‍💻
 - 📔 COMP30019 Graphics and Interaction, The University of Melbourne
