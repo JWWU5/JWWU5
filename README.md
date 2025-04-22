@@ -69,11 +69,16 @@ And announcement📢:
 - 👁️‍🗨️ **Tangible User Interface for Immersive Experience**
 - 🏆 **Best Visual Desgin Award in class**
 
-### PvZ Plant Manager
+### SongYue
+- 📅 November 2022 - August 2023
+- 💡 Unity | C# | Hand Tracking
+- 👁️‍🗨️ **Immersive Gesture-Learning Installation for Ancient Instruments**
+
+### [Plant Management System](https://github.com/JWWU5/COMP30022-Plant-Management-System) 👩‍💻🧑‍💻👩‍💻🧑‍💻🧑‍💻
 - 📔 COMP30022 IT Project, The University of Melbourne
 - 📅 August 2022 - November 2022
-- 💡 Ideation | React | 
-- 👁️‍🗨️ 
+- 💡 Ideation | UI Prototype Design | React | Material UI | Node.js | MongoDB | Heroku
+- 👁️‍🗨️ **Web App for plant management**
   
 ### [Be Human](https://github.com/JWWU5/COMP30019-Be-Human) 👩‍💻🧑‍💻👩‍💻🧑‍💻
 - 📔 COMP30019 Graphics and Interaction, The University of Melbourne
