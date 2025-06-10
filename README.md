@@ -61,6 +61,7 @@ And announcement📢:
 - 👁️‍🗨️ **Mixed reality application for medical simulators - spinal mobilisation**
 - 🏆 **Faculty and Industry Award from Endeavour Exhibition 2024**(Detail: [1️⃣](https://endeavour.unimelb.edu.au/experience-endeavour/past/2024-endeavour-exhibition-semester-2)
 [2️⃣](https://www.linkedin.com/posts/faculty-of-engineering-and-information-technology_endeavour24-activity-7252567413911625728-VQRk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYiADwBYkVE_6tS90k2E-SpYR9QEFX6CNc))
+- 📄 [**CHI2025 LBW**](https://dl.acm.org/doi/10.1145/3706599.3719996)
 
 ### [My Virtual Land](https://github.com/JWWU5/INFO90003-My-Virtual-Land) 👩‍💻🏆
 - 📔 INFO90003 Designing Novel Interactions, The University of Melbourne
